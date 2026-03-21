@@ -4,6 +4,13 @@ A scalable backend service that converts audio to text using AI and stores trans
 
 ---
 
+## 🌐 Live Demo
+
+🚀 **Frontend:** https://speech-to-text-frontend-virid.vercel.app/
+🔗 **Backend API:** https://speech-to-text-backend-r92y.onrender.com/
+
+---
+
 ## 🚀 Overview
 
 This backend is built using the MERN stack and integrates a Speech-to-Text API to process audio files. It supports user authentication, file uploads, and transcription history management.
